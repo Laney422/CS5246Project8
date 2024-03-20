@@ -1,17 +1,4 @@
 1. Reddit labeled Dataset- df_all.csv<br>
-class count<br>
-normal_positive    2699<br>
-adhd                997<br>
-bipolar             997<br>
-selfharm            997<br>
-depression          995<br>
-ocd                 995<br>
-anxiety             993<br>
-ptsd                992<br>
-eatingdisorders     991<br>
-almosthomeless      934<br>
-stress              926<br>
-assistance          922<br>
-get_motivated       689<br>
-
+![image](https://github.com/Laney422/CS5246Project8/assets/74254801/3bd26620-24a3-456b-8c8a-5e18810f9f06)
 2. Suicide dataset<br>
+![image](https://github.com/Laney422/CS5246Project8/assets/74254801/a88556cf-4499-401d-9e26-a0f92ee011ca)
