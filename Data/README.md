@@ -3,6 +3,7 @@
 2. Suicide dataset - df_suicide.csv <br>
 ![image](https://github.com/Laney422/CS5246Project8/assets/74254801/129bdbf0-55e1-469b-9313-9885ba48409a)
 3. In the df_nowk_with_prob.zip, there are two datasets with masked keywords.
+   - Two columns for text:'text_no_kw' or 'cleaned_no_kw'. The latter is cleaned (such as remove stopwords, punctuation,etc.
    - How: using [MASK] replaced all keywords.
    - keywords = {
     'adhd': ['adhd', 'vyvanse','medication', 'diagnosed'], 
