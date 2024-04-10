@@ -13,13 +13,13 @@
     'depression': ['depression'],
     'eatingdisorders': [ 'foods', 'weight', 'disorder', 'eating lot', 'ate lot'],
     'get_motivated': ['energy', 'outcome','motivate'],
-#     'normal_positive': ['good', 'best', 'happy', 'birthday', 'friend'],
+     #'normal_positive': ['good', 'best', 'happy', 'birthday', 'friend'],
     'ocd': [ 'ocd',  'obsessive'],
     'ptsd': [ 'therapist'],
     'selfharm': ['cut', 'self harm', 'blade','harm'],
     'stress': ['stress'],
-    #'mask':['doubt', 'depress', 'trouble', 'pressure', 'sadness', 'grief'], # --> from paper, may not suit our purpose
+    #'mask':['doubt', 'depress', 'trouble', 'pressure', 'sadness', 'grief'], # --> from paper, may not suit our          purpose
     'suicide':['die','death','survive','suicide','kill']
-}
+   }
    - Result: For multiple classifications, the performance drops by 5% in the F1 Score, indicating underfitting caused by information loss.
    - Result: For the suicide dataset, however, removing keywords does not affect too much performance.
