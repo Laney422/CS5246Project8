@@ -26,3 +26,11 @@
    }
    - Result: For multiple classifications, the performance drops by 5% in the F1 Score, indicating underfitting caused by information loss.
    - Result: For the suicide dataset, however, removing keywords does not affect too much performance.
+  
+**Model**
+**1. Feature Extractor:**
+**2. Mental Disease Classifier:**
+   2a. *Logistic Regression*
+   2b. *CNN-BiLSTM*
+       
+       
