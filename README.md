@@ -24,3 +24,4 @@ For fine-tuned bert:
 ```
 python bert_inference.py
 ```
+The inference result will be saved in the current directory.
