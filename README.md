@@ -1,6 +1,8 @@
 # CS5246Project8
 This is a repo for CS5246 Project8.<br>
 
+For data collection and analysis, please go to Code/Processing/Readme.MD for more details.
+
 To run the emotion score prediction, please firstly install the requirements.txt
 
 Before you train the model, please first unzip the data file.
